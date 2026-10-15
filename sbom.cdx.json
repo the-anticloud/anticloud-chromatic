@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:01a7f767-1f85-5bcc-a0ec-b94273de2115",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-09T09:04:27Z",
+    "component": {
+      "type": "application",
+      "name": "CHROMATIC",
+      "version": "b4ef869fc0a5",
+      "bom-ref": "pkg:generic/anticloud/CHROMATIC@b4ef869fc0a5",
+      "purl": "pkg:generic/anticloud/CHROMATIC@b4ef869fc0a5",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "b4ef869fc0a53955"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
